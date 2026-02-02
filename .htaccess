@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /shortenURL/
+
+RewriteRule ^r/([A-Za-z0-9]{6})$ r/index.php?code=$1 [L,QSA]
