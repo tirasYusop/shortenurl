@@ -12,7 +12,7 @@
   <div class="layout">
     <div class="welcome">
       <h1>Welcome to<br>URL Shortener</h1>
-      <p class="subtitle">Created by: Nor Atira Binti Yusop</p>
+      <p class="subtitle">Created by: Unknown</p>
     </div>
     <div class="card">
       <h1>URL Shortener</h1>
