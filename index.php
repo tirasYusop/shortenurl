@@ -8,6 +8,20 @@
     <link rel="stylesheet" href="style.css" />
 </head>
 
+<header class="navbar">
+  <div class="nav-container">
+    <div class="logo">MyApp</div>
+
+    <nav class="nav-links">
+      <a href="#">Home</a>
+      <a href="#">Features</a>
+      <a href="#">Contact</a>
+    </nav>
+
+    <button class="nav-btn">Login</button>
+  </div>
+</header>
+
 <body>
   <div class="layout">
     <div class="welcome">
